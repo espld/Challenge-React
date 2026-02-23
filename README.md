@@ -111,7 +111,7 @@ Respuesta exitosa:
 
 ---
 
-## ⚙️ Funcionalidades implementadas
+## Funcionalidades implementadas
 
 - Obtención de datos del candidato
 - Obtención de posiciones desde la API
@@ -121,7 +121,7 @@ Respuesta exitosa:
 
 ---
 
-## 📁 Estructura del proyecto
+## Estructura del proyecto
 
 ```
 src/
@@ -133,18 +133,6 @@ src/
  ├── App.jsx
  ├── main.jsx
 ```
-
----
-
-
-## 📌 Criterios considerados
-
-- Código limpio y legible.
-- Separación clara de responsabilidades.
-- Manejo adecuado de estados y errores.
-- Integración correcta con la API.
-- Interfaz simple, funcional y prolija.
-
 ---
 
 Este repositorio fue desarrollado como parte del challenge técnico de Nimble Gravity.
