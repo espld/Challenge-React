@@ -1,5 +1,4 @@
-# Challenge React – Postulación a Posiciones
-
+#  Nimble Gravity - Challenge React
 Aplicación desarrollada en React que permite a un candidato visualizar posiciones abiertas y postularse enviando la URL de su repositorio de GitHub mediante la API provista.
 
 ---
